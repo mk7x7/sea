@@ -188,3 +188,5 @@ USE_OPENGL_RENDERER := true
 
 # Inherit the proprietary files
 include vendor/xiaomi/sea/BoardConfigVendor.mk
+
+BUILD_BROKEN_MISSING_REQUIRED_MODULES := true

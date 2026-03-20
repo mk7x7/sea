@@ -21,3 +21,8 @@ ro.ril.disable.power.collapse=0
 ro.ril.fast.dormancy.rule=1
 ro.ril.fast.dormancy.timeout=3
 ro.mot.eri.losalert.delay=1000
+
+# Example Defintions
+ro.product.marketname=Redmi Note 12S
+ro.infinity.soc=Helio G96
+ro.infinity.camera=108MP + 8MP + 2MP
